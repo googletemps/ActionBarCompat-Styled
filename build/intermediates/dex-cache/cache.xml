@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6aab724703a978c2650239dee0ca67947f305941">
+        <dex dex="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.2.1_8dbf3898a5474fc5547b479b24ae2a4ecd5a91d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_fc4824ec423c21d91e0a3a1357be4aeb6f72770a.jar" />
+    </item>
+    <item
+        jar="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.2.1_3fc73bb0b6fec8aa22ed48c18c0d7fe64d0b2406.jar" />
+    </item>
+    <item
+        jar="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_8c7e8add763edd9880890413d986e507b0eb5611.jar" />
+    </item>
+    <item
+        jar="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_d8519b71892e9cd232e03a2b497f324a229d857b.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\hz\Desktop\developers_build\prebuilts\gradle\ActionBarCompat-Styled\Application\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_a56e9dd4c90bf7079c075061d78cff57c1577e98.jar" />
+    </item>
+
+</items>
